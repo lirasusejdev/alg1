@@ -1,0 +1,11 @@
+1. Programa que escreve   'ola, mundo JS'.
+
+[] Saida de dados
+[] Entrada de dados
+ - Terminal
+ - Ler arquivo
+
+ [] Variáveis
+ var/let/const
+
+2. Ler dois numeros e apresentar a soma
