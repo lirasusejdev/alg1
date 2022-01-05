@@ -9,3 +9,8 @@
  var/let/const
 
 2. Ler dois numeros e apresentar a soma
+
+Operacoes: + - / *
+// Texto (string)
+// numeros (Inteiros ou floats)
+// boolens (true ou false)
